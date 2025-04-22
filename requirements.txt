@@ -1,0 +1,9 @@
+python-chess 
+tensorflow 
+torch 
+ray[rllib]
+stockfish 
+pandas
+tqdm
+stable-baselines3[extra]
+gymnasium
